@@ -1,5 +1,5 @@
 ## Mamba Usage
-# 1. Create a python environment in terminal, copy code from dgp_mamba.py into a python script. Then simply either type "python dgp_mamba.py", or submit a long job for all scripts. Repeat this process for the following scripts in order:
+0. Create a python environment in terminal, copy code from dgp_mamba.py into a python script. Then simply either type "python dgp_mamba.py", or submit a long job for all scripts. Repeat this process for the following scripts in order:
 1. train_mamba.py - The training loop for the Mamba Architecture Fitting to the DGP 500 samples. Takes a couple of hours
 2. train_arma.py - The training loop for the ARMA Fitting to the DGP 500 samples. Takes a couple of hours
 3. arma_test2.py - The rolling forecast loop for the ARMA model on the DGP. Takes days.
